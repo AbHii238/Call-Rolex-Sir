@@ -5,7 +5,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
-✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴:</b> ༺-ᴱT-༻
+✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴:</b> KαηηαвιяαN
 ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝙰𝚋𝙷𝚒𝚓𝚒𝚝𝚑</b>
 ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
@@ -20,7 +20,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and ༺-ᴱT-༻ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ༺-ᴱT-༻ should have admin privillage.
+1. KαηηαвιяαN should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -31,11 +31,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ༺-ᴱT-༻ Supports both url and alert inline buttons.
+- KαηηαвιяαN Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ༺-ᴱT-༻ supports buttons with any telegram media type.
+2. KαηηαвιяαN supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
