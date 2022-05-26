@@ -1,8 +1,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʏ😀</b> {}
 
-<b>Iᴀᴍ</b><a href='https://t.me/MHFilter_bot'> KαηηαвιяαN </a><b>Jᴜsᴛ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ..!🤩</b>""""
-Tʜɪs Bᴏᴛ Is Mᴀᴅᴇ Exᴄʟᴜsɪᴠᴇʟʏ Fᴏʀ Tʜᴇ "ᴍᴀʟʟᴜ ʜᴜʙ ᴍᴏᴠɪᴇs" Gʀᴏᴜᴘ.Sᴏʀʀʏ Yᴏᴜ Cᴀɴ'ᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ..!</b>"""
+<b>Iᴀᴍ</b><a href='https://t.me/MHFilter_bot'> KαηηαвιяαN </a><b>Jᴜsᴛ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ..!🤩Tʜɪs Bᴏᴛ Is Mᴀᴅᴇ Exᴄʟᴜsɪᴠᴇʟʏ Fᴏʀ Tʜᴇ "ᴍᴀʟʟᴜ ʜᴜʙ ᴍᴏᴠɪᴇs" Gʀᴏᴜᴘ.Sᴏʀʀʏ Yᴏᴜ Cᴀɴ'ᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ..!</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
