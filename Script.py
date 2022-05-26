@@ -17,7 +17,7 @@ class script(object):
 - <a href=https://t.me/AbHii2255>AbHijith</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ༺-ᴱT-༻ will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and KαηηαвιяαN will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. KαηηαвιяαN should have admin privillage.
