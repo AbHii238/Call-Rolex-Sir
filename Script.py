@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """<b>Hᴇʏ👋</b> {}
 
-𝚒𝚊𝚖<a href='https://t.me/AbHii2255'> <b>KαηηαвιяαN</b></a> 𝚃𝚑𝚒𝚜 𝙱𝚘𝚝 𝙸𝚜 𝙼𝚊𝚍𝚎 𝙴𝚡𝚌𝚕𝚞𝚜𝚒𝚟𝚎𝚕𝚢 𝙵𝚘𝚛 𝚃𝚑𝚎 <b>"Mᴀʟʟᴜ Hᴜʙ Mᴏᴠɪᴇs"</b> 𝙶𝚛𝚘𝚞𝚙.𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝙲𝚊𝚗'𝚝 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙🤝"""
+𝚒𝚊𝚖<a href='https://t.me/AbHii2255'> <b>ʀᴏʟᴇx࿐</b></a> 𝚃𝚑𝚒𝚜 𝙱𝚘𝚝 𝙸𝚜 𝙼𝚊𝚍𝚎 𝙴𝚡𝚌𝚕𝚞𝚜𝚒𝚟𝚎𝚕𝚢 𝙵𝚘𝚛 𝚃𝚑𝚎 <b>"Mᴀʟʟᴜ Hᴜʙ Mᴏᴠɪᴇs"</b> 𝙶𝚛𝚘𝚞𝚙.𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝙲𝚊𝚗'𝚝 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙🤝"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
-✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴:</b> KαηηαвιяαN
+✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴:</b> ʀᴏʟᴇx࿐
 ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝙰𝚋𝙷𝚒𝚓𝚒𝚝𝚑</b>
 ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
@@ -17,10 +17,10 @@ class script(object):
 - <a href=https://t.me/AbHii2255>AbHijith</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and KαηηαвιяαN will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and ʀᴏʟᴇx࿐ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. KαηηαвιяαN should have admin privillage.
+1. ʀᴏʟᴇx࿐ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
