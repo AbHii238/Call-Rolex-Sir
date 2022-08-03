@@ -1,8 +1,9 @@
 class script(object):
     START_TXT = """<b>Hᴇʏ👋</b> {}
 
-𝚒𝚊𝚖<a href='https://t.me/AbHii2255'> <b>ʀᴏʟᴇx࿐</b></a> 𝚃𝚑𝚒𝚜 𝙱𝚘𝚝 𝙸𝚜 𝙼𝚊𝚍𝚎 𝙴𝚡𝚌𝚕𝚞𝚜𝚒𝚟𝚎𝚕𝚢 𝙵𝚘𝚛 𝚃𝚑𝚎 <b>"Mᴀʟʟᴜ Hᴜʙ Mᴏᴠɪᴇs"</b> 𝙶𝚛𝚘𝚞𝚙.𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝙲𝚊𝚗'𝚝 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙🤝"""
+𝚒𝚊𝚖<a href='https://t.me/AbHii2255'> <b>ʀᴏʟᴇx࿐</b></a> 𝚃𝚑𝚒𝚜 𝙱𝚘𝚝 𝙸𝚜 𝙼𝚊𝚍𝚎 𝙴𝚡𝚌𝚕𝚞𝚜𝚒𝚟𝚎𝚕𝚢 𝙵𝚘𝚛 𝚃𝚑𝚎 <b>"Mᴀʟʟᴜ Hᴜʙ Mᴏᴠɪᴇs"</b> 𝙶𝚛𝚘𝚞𝚙."""
     HELP_TXT = """𝙷𝙴𝚈 {}
+
 𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝙲𝚊𝚗'𝚝 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙😪."""
     ABOUT_TXT = """
 ✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <b>➝⃝Rᴏʟᴇx࿐</b>
@@ -12,7 +13,8 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <b>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <b>𝙷𝙴𝚁𝙾𝙺𝚄</b>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: <b>v1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
-    SOURCE_TXT = """<b>ᴍᴏᴅɪꜰɪᴇᴅ ʙyModified By:</b>
+    SOURCE_TXT = """<b>Modified By:</b>
+
 - <a href=https://t.me/AbHii2255>AbHijith</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
