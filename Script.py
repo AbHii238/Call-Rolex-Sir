@@ -12,8 +12,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <b>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <b>𝙷𝙴𝚁𝙾𝙺𝚄</b>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: <b>v1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
-    SOURCE_TXT = """<b>NOTE:</b> 
-<b>DEVS:</b>
+    SOURCE_TXT = """<b>ᴍᴏᴅɪꜰɪᴇᴅ ʙyModified By:</b>
 - <a href=https://t.me/AbHii2255>AbHijith</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
