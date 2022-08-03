@@ -13,9 +13,9 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <b>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <b>𝙷𝙴𝚁𝙾𝙺𝚄</b>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: <b>v1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
-    SOURCE_TXT = """<b>Modified By:</b>
+    SOURCE_TXT = """<b>Bot Modified By:</b><a href=https://t.me/AbHii2255>AbHijith</a>"""
 
-- <a href=https://t.me/AbHii2255>AbHijith</a>"""
+<b>©TeamEvaMaria<b>
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ʀᴏʟᴇx࿐ will respond whenever a keyword is found the message
