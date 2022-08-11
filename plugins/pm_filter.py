@@ -420,7 +420,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "help":
         buttons = [[
             InlineKeyboardButton('🔮 Sтαтυѕ', callback_data='stats'),
-            InlineKeyboardButton('🔙 Back', callback_data='start')
+            InlineKeyboardButton('🔙 Back', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -431,7 +431,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('👨‍🔧 Devs', callback_data='source'),
-            InlineKeyboardButton('🏠 Home', callback_data='starts')
+            InlineKeyboardButton('🏠 Home', callback_data='source')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
