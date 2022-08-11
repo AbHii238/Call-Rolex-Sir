@@ -79,20 +79,18 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton(" 🔄 Tʀy Aɢᴀɪɴ", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**",
+            text="🗣 𝐑𝐞𝐚𝐝 & 𝐅𝐨𝐥𝐥𝐨𝐰 𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧\n\nHey👋 നിങ്ങൾ ഗ്രൂപ്പിൽ ചോദിക്കുന്ന സിനിമകൾ ലഭിക്കണം എന്നുണ്ടെങ്കിൽ നിങ്ങൾ താഴെ കൊടുത്തിട്ടുള്ള **Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ** എന്ന ബട്ടൺ ക്ലിക്ക് ചെയ്ത് ജോയിൻ ചെയ്യണം.ജോയിൻ ചെയിത ശേഷം താഴെ കാണുന്ന **Tʀʏ Aɢᴀɪɴ** എന്ന ബട്ടണിൽ അമർത്തിയാൽ നിങ്ങൾക്ക് ഞാൻ ആ സിനിമ അയച്ചു തരുന്നതാണ്.\n\nHey👋 If you want to get the movies you ask for in the group you have to click on the **Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ** button below and join.After joining click on the **Tʀʏ Aɢᴀɪɴ** button below and I will send you the movie .. !!\n\n **©Mᴀʟʟᴜ Hᴜʙ MᴏᴠɪᴇS**",
             reply_markup=InlineKeyboardMarkup(btn),
-            parse_mode=enums.ParseMode.MARKDOWN
+            parse_mode="markdown"
             )
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('🎥 Cнαηηєℓ', url='https://t.me/Mallushubb'),
+            InlineKeyboardButton('🎥 Gяσυρ', url='https://t.me/Malluhubbmovies')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamEvamaria')
-            ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('🤔 Hєℓρ', callback_data='help'),
+            InlineKeyboardButton('😊 Aвσυт', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
