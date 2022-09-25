@@ -87,7 +87,7 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('🎥 Cнαηηєℓ', url='https://t.me/Mallushubb'),
-            InlineKeyboardButton('🎥 Gяσυρ', url='https://t.me/Malluhubbmovies')
+            InlineKeyboardButton('🎥 Gяσυρ', url='https://t.me/Malluhubmovies')
             ],[
             InlineKeyboardButton('🤔 Hєℓρ', callback_data='help'),
             InlineKeyboardButton('😊 Aвσυт', callback_data='about')
