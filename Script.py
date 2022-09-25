@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʏ👋</b> {}
 
-𝚒𝚊𝚖<a href='https://t.me/AbHii2255'> <b>ʀᴏʟᴇx࿐</b></a> 𝚃𝚑𝚒𝚜 𝙱𝚘𝚝 𝙸𝚜 𝙼𝚊𝚍𝚎 𝙴𝚡𝚌𝚕𝚞𝚜𝚒𝚟𝚎𝚕𝚢 𝙵𝚘𝚛 𝚃𝚑𝚎 <b>"Mᴀʟʟᴜ Hᴜʙ Mᴏᴠɪᴇs"</b> 𝙶𝚛𝚘𝚞𝚙."""
+𝚒𝚊𝚖<a href='https://t.me/AbHii238'> <b>ʀᴏʟᴇx࿐</b></a> 𝚃𝚑𝚒𝚜 𝙱𝚘𝚝 𝙸𝚜 𝙼𝚊𝚍𝚎 𝙴𝚡𝚌𝚕𝚞𝚜𝚒𝚟𝚎𝚕𝚢 𝙵𝚘𝚛 𝚃𝚑𝚎 <b>"Mᴀʟʟᴜ Hᴜʙ Mᴏᴠɪᴇs"</b> 𝙶𝚛𝚘𝚞𝚙."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 
 𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝙲𝚊𝚗'𝚝 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙😪."""
@@ -40,7 +40,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Malluhubbmovies)</code>
+<code>[Button Text](buttonurl:https://t.me/Malluhubmovies)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
