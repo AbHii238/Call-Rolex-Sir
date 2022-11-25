@@ -74,7 +74,7 @@ python3 bot.py
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/AbHii2255/Rolex-Sirr&branch=master&name=rolexsir)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/AbHii2255/Rolex-Sirr&branch=master&master=rolexsir)
 
 ## Commands
 ```
